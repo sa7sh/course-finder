@@ -88,9 +88,6 @@ function App() {
             Quotable
           </a>
         </p>
-        <p style={{ marginTop: '10px' }}>
-          
-        </p>
       </footer>
     </div>
   );
