@@ -3,7 +3,7 @@
 A responsive React application that allows users to browse, search, and filter through a catalog of educational courses.
 
 ### Live Demo
-**🔗 Live URL:** https://course-finder.vercel.app
+**🔗 Live URL:** https://coursefinder-eight.vercel.app
 
 ### Features
 - **Real-time Search** - Filter courses by name or category as you type
