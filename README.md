@@ -1,16 +1,20 @@
-# React + Vite
+## React Course Finder App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React application that allows users to browse, search, and filter through a catalog of educational courses.
 
-Currently, two official plugins are available:
+### Live Demo
+**🔗 Live URL:** https://course-finder.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Features
+- **Real-time Search** - Filter courses by name or category as you type
+- **API Integration** - Daily inspirational quotes from Quotable API with multi-level fallback system
+- **Responsive Design** - Optimized for desktop (1600×900) and mobile (414×749) resolutions
+- **Interactive UI** - Course cards with hover effects and visual level indicators
+- **Clean Architecture** - Three reusable React components with proper state management
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Technologies Used
+- **React 18** with functional components and hooks
+- **Vite** for fast development and building
+- **JavaScript ES6+** with modern syntax
+- **CSS/Inline Styles** for consistent styling across environments
+- **Quotable API** for external data integration
